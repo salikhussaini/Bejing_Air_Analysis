@@ -12,6 +12,7 @@ library(caret)
 ##################GET DATA##################
 all = read.csv("datasets/PRSA_Beijing_All.csv")
 
+
 ##################Clean Data##################
 
 #Clean out all observations with NA for the PM2.5 and temp measurement
